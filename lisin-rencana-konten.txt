@@ -1,7 +1,10 @@
 Rencana Lisin 
 -Belajar GIT
   Belajar dari  WPU
+  belajar dasar PHP
   Struktur Data
 -Belajar Algoritma
 -Belajar Javascrip Dasar
 -Belajar Javascrip Lanjutan
+-Belajar Phyton
+-Belajar React
