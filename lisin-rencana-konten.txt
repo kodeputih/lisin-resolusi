@@ -1,0 +1,5 @@
+Rencana Lisin 
+-Belajar GIT
+-Belajar Algoritma
+-Belajar Javascrip Dasar
+-Belajar Javascrip Lanjutan
