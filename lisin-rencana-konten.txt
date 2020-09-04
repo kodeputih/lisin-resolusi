@@ -7,3 +7,4 @@ Rencana Lisin
 -Belajar Javascrip Dasar
 -Belajar Javascrip Lanjutan
 -Belajar Phyton
+-Belajar React
