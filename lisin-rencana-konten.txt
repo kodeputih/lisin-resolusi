@@ -1,7 +1,8 @@
 Rencana Lisin 
 -Belajar GIT
   Belajar dari  WPU
+  Belajar CI
   Struktur Data
 -Belajar Algoritma
 -Belajar Javascrip Dasar
--Belajar Javascrip Lanjutan
+
